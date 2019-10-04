@@ -6,6 +6,8 @@ The aim of the application is to:
 2) Assess their security posture
 
 So far, the application can do the first point.
+The application can now pick a specific case for eg "online services", which was added today and give an abstract score.
+A function has been included in the program for modularization.
 
 I was able to run it from the latest version of eclipse, and from the Windows command line.
 (You should have the latest version of python installed on your machine)
