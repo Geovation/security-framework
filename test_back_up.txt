@@ -25,19 +25,19 @@ Test Case 6 : Is your data backed up?
 User input : N
 Output : Fail, exit
 
-Test Case 10 : Is your data backed up?
+Test Case 7 : Is your data backed up?
 User input : n
 Output : Fail, exit
 
-Test Case 7 : Is your data backed up?
+Test Case 8 : Is your data backed up?
 User input : Maybe
 Output : Fail, exit
 
-Test Case 8 : Is your data backed up?
+Test Case 9 : Is your data backed up?
 User input : Blank
 Output : Fail, exit
 
-Test Case 9 : Is your data backed up?
+Test Case 10 : Is your data backed up?
 User input : numbers
 Output : Fail, exit
 
