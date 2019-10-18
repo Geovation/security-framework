@@ -1,5 +1,3 @@
-import re
-
 def backup(answer) :
     """
     >>> backup('Yes')
@@ -32,21 +30,3 @@ def backup(answer) :
          or answer.isnumeric() :
         return "Fail"
     return "Pass"
-
-
-# def backup(answer) :
-#     """
-#     >>> backup('123')
-#     'Fail'
-#     >>> backup('ube 123')
-#     'Fail'
-#     """
-#     x = re.search("\s", answer)
-#
-#     print(x)
-#
-# backup("The rain in Spain")
-
-if __name__ == "__main__":
-    import doctest
-    doctest.testmod()
